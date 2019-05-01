@@ -60,31 +60,31 @@
 ### Naive Bayes
 - - - -
 #### Barchart
-![NB Barchart](https://github.com/Somil112/Machine-Learning/blob/master/Poker-Hand-Prediction/visualizations/nb_bar.png)
+![NB Barchart](https://github.com/Somil112/Poker-Hand-Prediction/blob/master/visualizations/nb_bar.png)
 
 #### Heat Map of Confusion Matrix
-![NB HeatMap](https://github.com/Somil112/Machine-Learning/blob/master/Poker-Hand-Prediction/visualizations/nb_heatmap.png)
+![NB HeatMap](https://github.com/Somil112/Poker-Hand-Prediction/blob/master/visualizations/nb_heatmap.png)
 ### Random Forest
 - - - -
 #### Barchart
-![RF Barchart](https://github.com/Somil112/Machine-Learning/blob/master/Poker-Hand-Prediction/visualizations/rf_bar.png)
+![RF Barchart](https://github.com/Somil112/Poker-Hand-Prediction/blob/master/visualizations/rf_bar.png)
 
 #### Heat Map of Confusion Matrix
-![RF HeatMap](https://github.com/Somil112/Machine-Learning/blob/master/Poker-Hand-Prediction/visualizations/rf_heatmap.png)
+![RF HeatMap](https://github.com/Somil112/Poker-Hand-Prediction/blob/master/visualizations/rf_heatmap.png)
 
 ### Decision Tree
 #### Barchart
-![DT Barchart](https://github.com/Somil112/Machine-Learning/blob/master/Poker-Hand-Prediction/visualizations/dt_bar.png)
+![DT Barchart](https://github.com/Somil112/Poker-Hand-Prediction/blob/master/visualizations/dt_bar.png)
 
 #### Heat Map of Confusion Matrix
-![DT HeatMap](https://github.com/Somil112/Machine-Learning/blob/master/Poker-Hand-Prediction/visualizations/dt_heatmap.png)
+![DT HeatMap](https://github.com/Somil112/Poker-Hand-Prediction/blob/master/visualizations/dt_heatmap.png)
 
 ### AdaBoost Classifier
 #### Barchart
-![AB Barchart](https://github.com/Somil112/Machine-Learning/blob/master/Poker-Hand-Prediction/visualizations/ab_bar.png)
+![AB Barchart](https://github.com/Somil112/Poker-Hand-Prediction/blob/master/visualizations/ab_bar.png)
 
 #### Heat Map of Confusion Matrix
-![AB HeatMap](https://github.com/Somil112/Machine-Learning/blob/master/Poker-Hand-Prediction/visualizations/ab_heatmap.png)
+![AB HeatMap](https://github.com/Somil112/Poker-Hand-Prediction/blob/master/visualizations/ab_heatmap.png)
 
 
 ## Results:
